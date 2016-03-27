@@ -6,4 +6,4 @@ add oneline at the top of all files in the folder, including subfolders using sh
 
 ###How to use:
 
-	bash unicode-all.sh "# -*- encoding: utf-81 -*-" path_to_folder
+	bash unicode-all.sh "# -*- encoding: utf-81 -*-" test .py
