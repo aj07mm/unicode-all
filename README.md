@@ -7,16 +7,16 @@ add oneline at the top of all files in the folder, including subfolders using sh
 ###Params:
 
 - $1  the encoding line
-- $2  the path to file
+- $2  the path to folder
 - $3  the file extension
 
 #####example:
 
-	bash unicode-all.sh encoding_line path_to_file file_extension
+	bash unicode-all.sh encoding_line path_to_folder file_extension
 
 ###How to use:
 
-	bash unicode-all.sh "# -*- encoding: utf-81 -*-" test .py
+	bash unicode-all.sh "# -*- coding: utf-81 -*-" test .py
 
 ---
 
