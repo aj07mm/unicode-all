@@ -22,7 +22,7 @@ add oneline at the top of all files in the folder, including subfolders using sh
 
 #####Usual enconding lines:
 
-	# -*- encoding: utf-81 -*-
+	# -*- coding: utf-8 -*-
 	# coding: UTF-8
 	# encoding: UTF-8
 	# zencoding: UTF-8
